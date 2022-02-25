@@ -23,6 +23,7 @@ https://github.com/IACarvalho/IACarvalho
 ## Atividade:
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ricardobecheli&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-Thanks, ashutosh00710
+Thanks, ashutosh00710 !
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ricardobecheli&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+Thanks, DenverCoder1 !
