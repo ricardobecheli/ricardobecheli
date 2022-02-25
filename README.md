@@ -22,6 +22,7 @@ https://github.com/IACarvalho/IACarvalho
 
 ## Activity:
 
+"Days" means **The last 31 Days**, not the date.
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ricardobecheli&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Thanks, ashutosh00710 !
