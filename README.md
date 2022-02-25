@@ -20,3 +20,6 @@ https://github.com/IACarvalho/IACarvalho
 <a href="mailto:ricardobarrosbecheli@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-becheli-36843659/)
 
+## Atividade:
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ricardobecheli&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
