@@ -11,6 +11,10 @@ Estou em busca do meu primeiro trabalho profissional nessa área e o meu crescim
 
 <img src="https://camo.githubusercontent.com/e102fc78838d08dc4d36cec7006a3cf89cbd397892588b6ed16d33af0f374255/68747470733a2f2f676f6f2e676c2f6d4a774e5543" alt="CS50-logo-logo" width="100"> CS50x
 
+## E à precisa e competente mentoria do colega:
+https://github.com/IACarvalho/IACarvalho
+
+
 ## Contato:
 
 <a href="mailto:ricardobarrosbecheli@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
