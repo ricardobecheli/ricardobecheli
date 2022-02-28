@@ -2,7 +2,7 @@
 ![](https://github.com/ricardobecheli/ricardobecheli/blob/main/images/monacode.jpg)
 
 # Hi! I'm a front-end dev.
-
+f
 And I'm in search of my first professional work in this area. I owe my technical growth to the excellent quality of the following courses:
 
 <img src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" alt="rocketseat-logo" width="100"/> Rocketseat
