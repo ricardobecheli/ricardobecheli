@@ -1,5 +1,5 @@
-![](https://user-images.githubusercontent.com/65828949/155623352-06158298-24c3-46df-9bfe-1f1e4e8793b6.jpg)
 
+![](https://github.com/ricardobecheli/ricardobecheli/blob/main/images/monacode.jpg)
 
 # Hi! I'm a front-end dev.
 
@@ -23,9 +23,9 @@ https://github.com/IACarvalho/IACarvalho
 ## Activity:
 
 "Days" means **The last 31 Days**, not the date.
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ricardobecheli&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ricardobecheli&theme=github)](https://github.com/ricardobecheli?tab=repositories)
 
-Thanks, ashutosh00710 !
+Thanks, devendra-alt and ashutosh00710 !
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ricardobecheli&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
