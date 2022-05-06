@@ -25,7 +25,7 @@ https://github.com/IACarvalho/IACarvalho
 "Days" means **The last 31 Days**, not the date.
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ricardobecheli&theme=github)](https://github.com/ricardobecheli?tab=repositories)
 
-[https://activity-graph.herokuapp.com/graph?username=ricardobecheli&theme=github]
+https://activity-graph.herokuapp.com/graph?username=ricardobecheli&theme=github
 
 Thanks, devendra-alt and ashutosh00710 !
 
