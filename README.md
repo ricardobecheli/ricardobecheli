@@ -25,13 +25,15 @@ https://github.com/IACarvalho/IACarvalho
 "Days" means **The last 31 Days**, not the date.
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ricardobecheli&theme=github)](https://github.com/ricardobecheli?tab=repositories)
 
-I don't know what happens with this cloud-based Salesforce app but it does not display in real time. Surprisingly the link below does!
+I don't know what happens with this cloud-based Salesforce app but it does not display in real time. Surprisingly the link below does!*
 
 https://activity-graph.herokuapp.com/graph?username=ricardobecheli&theme=github
 
 Thanks, devendra-alt and ashutosh00710 !
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ricardobecheli&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+* The same happens here:
 
 http://github-readme-streak-stats.herokuapp.com?user=ricardobecheli&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D
 
