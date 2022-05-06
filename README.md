@@ -33,4 +33,6 @@ Thanks, devendra-alt and ashutosh00710 !
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ricardobecheli&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+http://github-readme-streak-stats.herokuapp.com?user=ricardobecheli&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D
+
 Thanks, DenverCoder1 !
