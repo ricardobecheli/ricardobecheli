@@ -38,4 +38,4 @@ Thanks, devendra-alt and ashutosh00710 !
 
 http://github-readme-streak-stats.herokuapp.com?user=ricardobecheli&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D
 
-Thanks, DenverCoder1 !
+Thanks, DenverCoder1 !!!
