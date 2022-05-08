@@ -26,7 +26,7 @@ https://github.com/IACarvalho/IACarvalho
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ricardobecheli&theme=github)](https://github.com/ricardobecheli?tab=repositories)
 
 I don't know what happens with this cloud-based Salesforce app but it does not display in real time. Surprisingly the link below does! (1*)
-I would like to deit the graph's code for the X value to be always zero, not one as it ger automatically sometimes.
+I would like to edit the graph's code for the X value to be always zero, not one as it gets automatically sometimes.
 
 https://activity-graph.herokuapp.com/graph?username=ricardobecheli&theme=github
 
