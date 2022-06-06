@@ -25,7 +25,7 @@ https://github.com/IACarvalho/IACarvalho
 "Days" means **The last 31 Days**, not the date.
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ricardobecheli&theme=github)](https://github.com/ricardobecheli?tab=repositories)
 
-I don't know what happens with this cloud-based Salesforce app but it does not display in real time. Surprisingly the link below does! (1*)
+I don't know what happens with this cloud-based Salesforce app but it does not display in real time. Surprisingly the link below does!
 I would like to edit the graph's code for the X value to be always zero, not one as it gets automatically sometimes.
 
 https://activity-graph.herokuapp.com/graph?username=ricardobecheli&theme=github
@@ -34,8 +34,4 @@ Thanks, devendra-alt and ashutosh00710 !
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ricardobecheli&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-(1*)  The same happens here:
-
-
-
-Thanks, DenverCoder1 !!!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobecheli)](https://github.com/ricardobecheli/github-readme-stats)
