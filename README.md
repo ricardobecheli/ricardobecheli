@@ -11,6 +11,9 @@ And I'm in search of my first professional work in this area. I owe my technical
 
 <img src="https://camo.githubusercontent.com/e102fc78838d08dc4d36cec7006a3cf89cbd397892588b6ed16d33af0f374255/68747470733a2f2f676f6f2e676c2f6d4a774e5543" alt="CS50-logo-logo" width="100"> CS50x
 
+<img src="https://user-images.githubusercontent.com/65828949/183179111-c2681aed-456b-4081-9f8b-b47c79a24bc7.png" alt="Gino-Terentim-logo" width="100"> Gino Terentim
+
+
 ## And also to the precise and dedicated mentorship of our fellow dev:
 https://github.com/IACarvalho/IACarvalho
 
