@@ -3,7 +3,7 @@
 
 # Hi! I'm a front-end dev and Scrum Master.
 
-And I'm in search of my first professional work in this area. I owe my technical growth to the excellent quality of the following courses:
+I owe my technical growth to the excellent quality of the following courses:
 
 <img src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" alt="rocketseat-logo" width="100"/> Rocketseat
 
@@ -13,9 +13,8 @@ And I'm in search of my first professional work in this area. I owe my technical
 
 <img src="https://user-images.githubusercontent.com/65828949/183179111-c2681aed-456b-4081-9f8b-b47c79a24bc7.png" alt="Gino-Terentim-logo" width="100"> Gino Terentim
 
+<img src="https://user-images.githubusercontent.com/65828949/183195686-2255fc71-3ea6-4188-a0c9-b6d6d5b6177f.png" alt="Udemy-logo" width="100"> Udemy
 
-## And also to the precise and dedicated mentorship of our fellow dev:
-https://github.com/IACarvalho/IACarvalho
 
 
 ## Connections:
