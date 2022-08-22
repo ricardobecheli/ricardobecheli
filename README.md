@@ -1,7 +1,7 @@
 ![](https://github.com/ricardobecheli/ricardobecheli/blob/main/images/monacode.jpg)
 
 
-# Hi! I'm a Front-end Dev and Scrum Master.
+# Hello! I'm a Scrum Master and Front-end Dev.
 
 I owe my technical growth to the excellent quality of the following courses:
 
