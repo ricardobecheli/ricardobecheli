@@ -10,6 +10,8 @@ I owe my technical takeoff to the excellent quality of the following courses:
 <img src="https://user-images.githubusercontent.com/65828949/183179111-c2681aed-456b-4081-9f8b-b47c79a24bc7.png" alt="Gino-Terentim-logo" width="150"> Gino Terentim
 
 
+And I owe my technical growth to the companies that were and are my clients and the people I've worked with.
+
 
 
 
