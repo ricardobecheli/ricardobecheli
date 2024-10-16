@@ -1,7 +1,7 @@
 ![](https://github.com/ricardobecheli/ricardobecheli/blob/main/images/monacode.jpg)
 
 
-# Ricardo Barros Becheli: Scrum Master and Front-end Dev.
+# Ricardo Barros Becheli: Scrum Master, Product Owner and Back-end Dev.
 
 I thank the following courses for keeping me up to date:
 
